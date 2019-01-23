@@ -7,7 +7,7 @@
 
 ## 2 Veri Bilimine Giriş
  - 2.1 [Pandas](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
- - 2.2 [Uygulama](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
+ - 2.2 [Uygulama](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2b%20-%20Veri%20Bilimi%20Uygulamasi.ipynb) (_Öğrencilerin notunu hesaplama_)
  - 2.3 
 
 ## 3 Sosyal Medya Analizi
