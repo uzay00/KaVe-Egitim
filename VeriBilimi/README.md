@@ -8,7 +8,7 @@
 ## 2 Veri Bilimine Giriş
  - 2.1 [Pandas](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
  - 2.2 [Uygulama](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2b%20-%20Veri%20Bilimi%20Uygulamasi.ipynb) (_Öğrencilerin notunu hesaplama_)
- - 2.3 
+ - 2.3 [Sorular](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2c%20-%20Veri%20Bilimi%20Sorulari.ipynb) (_Starbucks ve Unutulan Diller Hakkinda_)
 
 ## 3 Sosyal Medya Analizi
  - 3.1 [Twitter](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/4%20-%20Twitter%20Verisini%20inceleme.ipynb)
