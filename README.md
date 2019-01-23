@@ -1,7 +1,5 @@
 # KaVe Egitim
 
-## Veri Bilimi
-
-## Yapay Öğrenme
-
-## Derin Öğrenme
+ - [Veri Bilimi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimineGiris)
+ - Yapay Öğrenme
+ - Derin Öğrenme
