@@ -2,8 +2,8 @@
 
 
 ## 1 Python ile Programlama
- - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb)(__Zip, Comprehension, lambda, Dictionary__)
- - 1.2 [Detaylar] (https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/1b%20-%20Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb) (__Functions and class__)
+ - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb)(_Zip, Comprehension, lambda, Dictionary_)
+ - 1.2 [Detaylar](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/1b%20-%20Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb) (_Functions and class_)
 
 ## 2 Veri Bilimine Giriş
  - 2.1
