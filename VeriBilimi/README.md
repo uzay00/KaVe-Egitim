@@ -1,5 +1,5 @@
 # Veri Bilimine Giriş
-
+ - [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dalış-3f069260ebda) (_Deniz Kılınç_)
 
 ## 1 Python ile Programlama
  - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb) (_Zip, Comprehension, lambda, Dictionary_)
