@@ -13,5 +13,5 @@
 ## 3 Sosyal Medya Analizi
  - 3.1 [Twitter](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimineGiris/4%20-%20Twitter%20Verisini%20inceleme.ipynb)
  - 3.2 EksiSozluk
- - 3.3 Instagram
+ - 3.3 [Instagram](https://caylakyazilimci.com/post/python-emojilerle-instagram-uzerinden-duygu-analizi) (_Mert Nuhuz: Emojilerle Duygu Analizi_) [Kod](https://nbviewer.jupyter.org/github/MertNuhuz/InstagramPythonCrawler/blob/master/InstaCrawler.ipynb)
  - 3.3 Wikipedia
