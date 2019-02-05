@@ -4,6 +4,7 @@
 ## 1 Python ile Programlama
  - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb) (_Zip, Comprehension, lambda, Dictionary_)
  - 1.2 [Detaylar](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1b%20-%20Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb) (_Functions and class_)
+ - 1.3 [Sistem Dinamiği](https://uzay00.github.io/kahve/dersler/yapayzeka/ders9/)
 
 ## 2 Veri Bilimine Giriş
  - 2.1 [Pandas](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
