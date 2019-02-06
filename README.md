@@ -5,7 +5,8 @@ Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
  - Yapay Öğrenme
  - Derin Öğrenme
 
-
+<BR><BR><BR>
+ 
 ### Uzay ÇETİN
 _Galatasaray Üniversitesi Bilgisayar Mühendisliği bölümünde lisansını tamamladıktan sonra, Fransız Hükümeti bursu ile Pierre Marie Curie Üniversitesi'nde (Paris VI) yapay zeka üzerine yüksek lisans yapmıştır. Doktorasını, Boğaziçi Üniversitesi Bilgisayar Mühendisliği bölümünde karmaşık sistemler üzerine yapan Çetin, 2017 yılı Ekim ayından itibaren İstanbul Bilgi Üniversitesi Bilgisayar Mühendisliği bölümünde öğretim üyesi olarak çalışmalarını sürdürmektedir. Ayrıca Sarıyer Akademi'de çocuklar ve gençlere yönelik proje odaklı yapay zeka derslerini organize etmektedir. İlgi alanları karmaşık sistemler, yapay zeka ve veri bilimi konularıdır._
 
