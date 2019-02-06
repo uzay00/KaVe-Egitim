@@ -1,11 +1,11 @@
 # Veri Bilimine Giriş
  - [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dalış-3f069260ebda) (_Deniz Kılınç_)
+ - [Python cheatsheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## 1 Python ile Programlama
  - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb) (_Zip, Comprehension, lambda, Dictionary_)
  - 1.2 [Detaylar](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1b%20-%20Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb) (_Functions and class_)
  - 1.3 [Sistem Dinamiği](https://uzay00.github.io/kahve/dersler/yapayzeka/ders9/) (_Diferansiyel Denklemler_)
- - 1.4 [Python cheatsheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## 2 Veri Bilimine Giriş
  - 2.1 [Pandas](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
@@ -18,3 +18,9 @@
  - 3.3 [SüslüSözlük](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/3d%20-%20Süslü%20Sözlük%27den%20Veri%20Çekme.ipynb) (_BeautifulSoup ile veri çekme_)
  - 3.4 [Instagram](https://caylakyazilimci.com/post/python-emojilerle-instagram-uzerinden-duygu-analizi) (_Mert Nuhuz: Emojilerle Duygu Analizi_) [Kod](https://nbviewer.jupyter.org/github/MertNuhuz/InstagramPythonCrawler/blob/master/InstaCrawler.ipynb)
  - 3.5 [Wikipedia](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/3c%20-%20Wikipedia%20Ozetleme.ipynb) Özetleme [Konu](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/3c%20-%20Wikipeadi%20Ozetleme.pdf), Kaynak: [Bijoyan Das Udemy Dersi](https://www.udemy.com/hands-on-natural-language-processing-using-python/)
+
+## 4 Uygulamalar
+ - 4.1 YasamKocum Uygulamasi
+  - [SORULAR]()
+  - [CEVAPLAR]()
+  - [Versiyon 1]()
