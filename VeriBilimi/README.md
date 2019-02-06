@@ -19,6 +19,7 @@
  - 3.4 [Instagram](https://caylakyazilimci.com/post/python-emojilerle-instagram-uzerinden-duygu-analizi) (_Mert Nuhuz: Emojilerle Duygu Analizi_) [Kod](https://nbviewer.jupyter.org/github/MertNuhuz/InstagramPythonCrawler/blob/master/InstaCrawler.ipynb)
  - 3.5 [Wikipedia](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/3c%20-%20Wikipedia%20Ozetleme.ipynb) Özetleme [Konu](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/3c%20-%20Wikipeadi%20Ozetleme.pdf), Kaynak: [Bijoyan Das Udemy Dersi](https://www.udemy.com/hands-on-natural-language-processing-using-python/)
 
-## 4 Uygulamalar
- - 4.1 YasamKocum Uygulamasi
-  - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a1-%20%28Basitlestirilmis%29%20Yasam%20Kocu%20Uygulamasi%20SORULAR.ipynb), [Cevap](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb) ve [Versiyon 1](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a3%20-%20(Basitleştirilmiş)%20YasamKocum%20Uygulaması%20--%20versiyon%201%20--.ipynb)
+## Uygulamalar
+
+### YasamKocum Uygulamasi
+ - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a1-%20%28Basitlestirilmis%29%20Yasam%20Kocu%20Uygulamasi%20SORULAR.ipynb), [Cevap](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb) ve [Versiyon 1](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a3%20-%20(Basitleştirilmiş)%20YasamKocum%20Uygulaması%20--%20versiyon%201%20--.ipynb)
