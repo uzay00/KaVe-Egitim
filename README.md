@@ -1,10 +1,9 @@
 # KaVe Egitim
-Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
-
-### İşlenecek Konular
  - [Veri Bilimi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
  - Yapay Öğrenme
  - Derin Öğrenme
+Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
+
 
 <BR><BR><BR>
  
