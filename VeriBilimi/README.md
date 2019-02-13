@@ -3,6 +3,7 @@
  - [Python cheatsheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## 1 Python ile Programlama
+ - 1.0 [Python Temeller](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
  - 1.1 [Giriş](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1a%20-%20Python%20ile%20Programlamaya%20Giriş.ipynb) (_Zip, Comprehension, lambda, Dictionary_)
  - 1.2 [Detaylar](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/1b%20-%20Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb) (_Functions and class_)
  - 1.3 [Sistem Dinamiği](https://uzay00.github.io/kahve/dersler/yapayzeka/ders9/) (_Diferansiyel Denklemler_)
