@@ -1,7 +1,7 @@
 
 import time
 
-dk, sn = 10, 3
+dk, sn = 0, 3
 sure = 60 * dk + sn # bekleme suresi
 time.sleep(sure - 2) 
 
