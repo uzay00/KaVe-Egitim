@@ -27,3 +27,4 @@
 
  - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a1-%20%28Basitlestirilmis%29%20Yasam%20Kocu%20Uygulamasi%20SORULAR.ipynb)
  - [Cevap](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb) ve [Versiyon 1](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a3%20-%20(Basitleştirilmiş)%20YasamKocum%20Uygulaması%20--%20versiyon%201%20--.ipynb)
+ - [Erdem Alpkaya'nın cevabı](https://github.com/erdemalpkaya/Aphorism-Recommendation)
