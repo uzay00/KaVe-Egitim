@@ -3,11 +3,10 @@
 
 |  Tarih       |     Ana Konu       | Alt Baslik  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | Veri Bilimi   | Veri Analizine Giris [Titanic'de kim hayatta kalacak? ](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/titanic/Veri%20Analizine%20Giris.ipynb)  |
-| col 2 is      | Veri Bilimi   |   [PCA ile Boyut Indirgeme](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20-%20Temel%20Bileşen%20Analizi.ipynb) ve 
-[PCA ile Anomali Analizi](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20ile%20Anomali%20Tespiti.ipynb) |
-| zebra stripes | Yapay Ogrenme | Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb) |
-| zebra stripes | Yapay Ogrenme | Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb) |
+| 07.03.2019     | Veri Bilimi   | Veri Analizine Giris [Titanic'de kim hayatta kalacak? ](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/titanic/Veri%20Analizine%20Giris.ipynb)  |
+| 14.03.2019      | Veri Bilimi   |   [PCA ile Boyut Indirgeme](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20-%20Temel%20Bileşen%20Analizi.ipynb) ve [PCA ile Anomali Analizi](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20ile%20Anomali%20Tespiti.ipynb) |
+| 21.03.2019  | Yapay Ogrenme | Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb) |
+| 28.03.2019  | Yapay Ogrenme | Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb) |
 
 ## 
  - Veri Analizine Giris [Titanic'de kim hayatta kalacak? ](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/titanic/Veri%20Analizine%20Giris.ipynb) 
