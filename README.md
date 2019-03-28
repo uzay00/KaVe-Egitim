@@ -1,6 +1,6 @@
 # KaVe Egitim
  - [Veri Bilimi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
- - Yapay Öğrenme
+ - [Yapay Öğrenme](https://github.com/uzay00/KaVe-Egitim/tree/master/YapayOgrenme)
  - Derin Öğrenme
  
 Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
