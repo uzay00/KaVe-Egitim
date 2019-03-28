@@ -5,7 +5,7 @@
    - [PCA ile Boyut Indirgeme](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20-%20Temel%20Bileşen%20Analizi.ipynb)
    - [PCA ile Anomali Analizi](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20ile%20Anomali%20Tespiti.ipynb) 
  - Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb)
- - Logistic regresyon ile ikilio siniflandirma
+ - Logistic regresyon ile ikili siniflandirma
    - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Soru%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb): El yapimi Logistic Regresyon
    - [Cevap](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Cevap%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb) 
    - Sinifta yaptigimiz [notebook](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Sinif-%20El%20yapimi%20Logistic%20Regresyon.ipynb) 
