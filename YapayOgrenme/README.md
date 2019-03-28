@@ -7,5 +7,4 @@
  - Gradyan Inis ve [Lineer Regresyon](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb)
  - Logistic regresyon ile ikili siniflandirma
    - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Soru%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb): El yapimi Logistic Regresyon
-   - [Cevap](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Cevap%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb) 
-   - Sinifta yaptigimiz [notebook](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Sinif-%20El%20yapimi%20Logistic%20Regresyon.ipynb) 
+   - [Cevap](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Cevap%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb) ve sinifta yaptigimiz [notebook](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LogisticRegresyon/Sinif-%20El%20yapimi%20Logistic%20Regresyon.ipynb) 
