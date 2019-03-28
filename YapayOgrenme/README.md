@@ -1,7 +1,7 @@
 
 # Islenen Konular
 
-|  Tarih       |     Ana Konu       | Alt Konu  | Baslik  | Baslik  |
+|  Tarih       |     Ana Konu       | Alt Konu  | Baslik 1 | Baslik 2 |
 | ------------- |:-------------:| -----:|-----:|-----:|
 | 07.03.2019     | Veri Bilimi   | Veri Analizine Giris | [Titanic'de kim hayatta kalacak? ](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/titanic/Veri%20Analizine%20Giris.ipynb)| .. |
 | 14.03.2019      | Veri Bilimi   | PCA |   [PCA ile Boyut Indirgeme](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20-%20Temel%20Bileşen%20Analizi.ipynb) | [PCA ile Anomali Analizi](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/PCA/PCA%20ile%20Anomali%20Tespiti.ipynb)|
