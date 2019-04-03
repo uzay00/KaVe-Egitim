@@ -3,11 +3,6 @@
 
 I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEMS. We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?` via Prisoner's Dilemma Game. But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle this questions.
 
-<br><br>
-I dedicate this talk to Sea Squirts :D
-> Once Sea Squirt finds a suitable place to attach itself, it literally eats its own brain. 
-
-
 ## Presentation
 Slides can be downloaded from this link: [download](https://raw.githubusercontent.com/uzay00/KaVe-Egitim/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/WeAgents.pdf) 
 
@@ -36,3 +31,11 @@ If we have time, I also want to briefly talk about some data science projects.
 
 ## Football Analytics
  - Ongoing Work, can you provide us some data: https://lnkd.in/ge7C_NK
+ 
+ 
+<br><br>
+## Acknowledgment
+I dedicate this talk to Sea Squirts :D
+> Once Sea Squirt finds a suitable place to attach itself, it literally eats its own brain. 
+
+
