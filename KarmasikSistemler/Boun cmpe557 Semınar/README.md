@@ -3,8 +3,11 @@ I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEM
 
 But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle this questions.
 
-## Outline
-Presentation can be downloaded from this link: [download](https://raw.githubusercontent.com/uzay00/KaVe-Egitim/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/WeAgents.pdf) 
+## Presentation
+Slides can be downloaded from this link: [download](https://raw.githubusercontent.com/uzay00/KaVe-Egitim/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/WeAgents.pdf) 
+
+## Python Code
+We will also look at some python code. You can run them on https://colab.research.google.com
 
  - [Simple Economic Model](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%200%20-%20Simple%20Economic%20Model.ipynb)
  - [Equation based models](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%201-%20Introduction%20to%20Modeling%20with%20Python%20.ipynb)
