@@ -3,7 +3,8 @@
 
 I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEMS. We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?` via Prisoner's Dilemma Game. But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle this questions.
 
-> Sea Squirts: Once it finds a suitable place to attach itself, it literally eats its own brain. 
+I dedicate this talk to Sea Squirts
+> Once Sea Squirt finds a suitable place to attach itself, it literally eats its own brain. 
 
 
 ## Presentation
