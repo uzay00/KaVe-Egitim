@@ -33,9 +33,8 @@ If we have time, I also want to briefly talk about some data science projects.
  - Ongoing Work, can you provide us some data: https://lnkd.in/ge7C_NK
  
  
-<br><br>
 ## Acknowledgment
-I dedicate this talk to Sea Squirts :D
+I dedicate this talk to Sea Squirts :D. To understand why, follow the [link](http://cyclingprof.blogspot.com/2009/12/daniel-dennett-on-sea-squirts-and.html).
 > Once Sea Squirt finds a suitable place to attach itself, it literally eats its own brain. 
 
 
