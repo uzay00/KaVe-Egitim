@@ -1,4 +1,7 @@
-# Outline
+# Invited Talk in CMPE 557 COMPLEX SYSTEMS, Bogazici University
+We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?`. First, we need some tools such as `Agent-based modeling`, `Data Science`. 
+
+## Outline
  - [Simple Economic Model](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%200%20-%20Simple%20Economic%20Model.ipynb)
  - [Equation based models](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%201-%20Introduction%20to%20Modeling%20with%20Python%20.ipynb)
  - [Genetic Algorithms](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%202%20-%20Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
