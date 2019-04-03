@@ -1,5 +1,7 @@
-# Invited Talk in CMPE 557 COMPLEX SYSTEMS, Bogazici University
-We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?`. First, we need some tools such as `Agent-based modeling`, `Data Science`. 
+# Invited Talk 
+I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEMS, in Bogazici University. We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?`. 
+
+But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle this questions.
 
 ## Outline
  - [Simple Economic Model](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/Lecture%200%20-%20Simple%20Economic%20Model.ipynb)
