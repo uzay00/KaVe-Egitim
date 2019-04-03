@@ -5,3 +5,9 @@ Outline
  - [PD Game: Who is succesful](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/PD%20Game%20-%20Success.ipynb)
  - [PD Game: Perception matters](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/PD%20Game%20-%20Perception%20Basics.ipynb)
  - [PD Game: Evolution](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/PD%20Game%20-%20Evolution.ipynb)
+ 
+ 
+Extra Material in Policial Data Science
+ - [Turkey Political Opinions](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/589_UzayCetin_YunusEmre.pdf)
+  - [Data](https://toolbox.google.com/datasetsearch/search?query=political%20data%20science%20turkish&docid=aTawmeyTgj449VemAAAAAA%3D%3D)
+  - [Code](https://www.kaggle.com/yemregundogmus/turkey-political-opinions)
