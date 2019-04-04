@@ -1,0 +1,2 @@
+- [Keras MultiClass Classification](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/DerinOgrenme-Keras/Multi-Class%20Classification.ipynb)
+- [AutoEncoders on ToyData](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/DerinOgrenme-Keras/00%20-%20Anomaly%20Detection%20with%20AutoEncoders%20on%20ToyData.ipynb)
