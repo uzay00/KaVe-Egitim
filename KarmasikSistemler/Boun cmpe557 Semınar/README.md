@@ -1,7 +1,7 @@
 # Invited Talk, Bogazici University
 3 April 2019
 
-I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEMS. We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?` via Prisoner's Dilemma Game. But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle this questions.
+I thank Prof. Haluk Bingol for inviting me to his course CMPE 557 COMPLEX SYSTEMS. We will mainly talk about `Why and how cooperation exists?`, `Is it good to have a huge memory?` via Prisoner's Dilemma Game. But first, we need some tools such as `Agent-based modeling` and `Data Science` to tackle these questions.
 
 ## Presentation
 Slides can be downloaded from this link: [download](https://raw.githubusercontent.com/uzay00/KaVe-Egitim/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/WeAgents.pdf) 
@@ -17,7 +17,7 @@ We will also look at some python code. You can run them on https://colab.researc
  - [PD Game: Evolution](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Semınar/PD%20Game%20-%20Evolution.ipynb)
  
 # Future Directions
-I strongly believe that data science and complex systems research should be merged. Please look at our [Complex systems and Data Science Workshop](https://uzay00.github.io/kahve/calistay/). In May 4th, we will organize our second workshop.  
+I strongly believe that data science and complex systems research should be merged. Please look at our [Complex systems and Data Science Workshop](https://uzay00.github.io/kahve/calistay/) organized in Istanbul Bilgi University. In May 4th, we will organize our second workshop in Bogazici University.  
 
 > A very important future direction is to use Deep Reinforcement Learning Agents within Complex Systems.
 
