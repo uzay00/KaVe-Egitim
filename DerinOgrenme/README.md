@@ -1,0 +1,1 @@
+- [CNN](https://github.com/uzay00/KaVe/tree/master/2018/Lecture15/4)%20Convolutional%20Neural%20Network)
