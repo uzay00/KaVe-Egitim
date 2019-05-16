@@ -78,7 +78,7 @@ if __name__ == "__main__":
     agent = DQLAgent(env)
     
     batch_size = 16
-    episodes = 100
+    episodes = 10
     for e in range(episodes):
         
         # initialize environment
@@ -119,7 +119,7 @@ import time
 trained_model = agent
 state = env.reset()
 state = np.reshape(state, [1,4])
-time_t = 0
+time_t = 0.05
 while True:
     env.render()
     action = trained_model.act(state)
@@ -128,8 +128,9 @@ while True:
     state = next_state
     time_t += 1
     print(time_t)
-    #time.sleep(0.4)
+    time.sleep(time_t)
     if done:
         break
 print("Done")
+env.close()
 
