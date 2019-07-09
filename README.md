@@ -9,8 +9,8 @@ Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
 
 # KaVe ArGe
  - Yaşam Koçum
-  - Özlü söz tespiti
-  - Kötü söz tespiti
+   - Özlü söz tespiti
+   - Kötü söz tespiti
  - Kişisel sosyal İzleme Sistemi
  - Haber özetleme
  - İlaç-Forum
