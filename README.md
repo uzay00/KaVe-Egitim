@@ -6,6 +6,22 @@
 Kodların Bulunduğu Adres: https://github.com/uzay00/KaVe-Egitim
 
 
+
+# KaVe ArGe
+ - Yaşam Koçum
+  - Özlü söz tespiti
+  - Kötü söz tespiti
+ - Kişisel sosyal İzleme Sistemi
+ - Haber özetleme
+ - İlaç-Forum
+ - Finansal izleme Sistemi
+ - Anomali Tespiti
+ - Görüntülerden erken arıza tespit sistemi
+ - Sosyal Simülasyon
+
+
+
+
 # Islenen Konular
 
 ## Mart
