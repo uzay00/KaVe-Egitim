@@ -1,4 +1,4 @@
-Ka|Ve Ar-Ge Soruları 
+## Ka|Ve Ar-Ge Soruları 
 
  1. Python ile Basit Makine Öğrenmesi ve Veri İşleme
  2. Basit Web Scraper ve NLP 
