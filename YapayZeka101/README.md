@@ -32,7 +32,7 @@ Bilgisayım,
 
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
-![](programlama.png)
+![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
 
 **13:45-14.30** | Veri Biliminin Enstrumanları: Pandas & Numpy | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828)
   - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
