@@ -25,6 +25,15 @@ Diğer eğitimlerimize ulaşmak için topluluğumuzu [LinkedIn](https://www.link
   - Dosya Okuma
   - Notebook: [Python ile Veri Bilimine Giriş](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
+## Bilgisayım ve Programlama
+Bilgisayım, 
+ - (1) verinin depolanması ve 
+ - (2) verinin işlenmesi ile ilgilidir. 
+
+ - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
+
+![](programlama.png)
+
 **13:45-14.30** | Veri Biliminin Enstrumanları: Pandas & Numpy | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828)
   - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
   - Pandas
