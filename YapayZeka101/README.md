@@ -28,10 +28,9 @@ Bilgisayım,
   - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y)
    > _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
-**14:00-14:45** | Sosyal Medya Dinleme
-  - Summarify'ın hikayesi
+**14:00-14:45** | Veri Toplama ve İşleme (Sosyal Medya İzleme)| [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
+  - Summarify'ın hikayesi: Sosyal Medya Dinleme 
   - [Çağrı merkezine](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb) gelen konuşmaların sınıflandırılması 
-  - Veri Toplama ve İşleme (Sosyal Medya İzleme) | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
   - Transformers kütüphanesi ile önceden eğitilmiş [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?gi=2ab36d86429) duygu analizi modelini kullanma
   - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
