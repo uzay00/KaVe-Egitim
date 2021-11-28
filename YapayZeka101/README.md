@@ -1,29 +1,17 @@
-# YetGen Veri Bilimi Yaz Okulu
+# Yapay Öğrenme 101 Eğitimi 
+
+Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. Uzay Çetin tarafından hazırlanmıştır. [Topluluğumuzun](https://www.linkedin.com/company/kavetr) diğer eğitimlerine 
+[adresinden](https://github.com/kaveai/veribilimiyazokulu) ulaşabilirsiniz.
 
 
-
-![[Youtube](https://www.youtube.com/watch?v=cr45U2dxyjY)](Pratikler/thumb.jpg) 
-
-
-6-7 Eylül 2021
-> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
-
-Diğer eğitimlerimize ulaşmak için topluluğumuzu [LinkedIn](https://www.linkedin.com/company/kavetr)'de takip edin.
 
 # Ders Programı
 
-## 6 EYLÜL
-**11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=1272)
+## 9 Aralık 2021
+**10:00 - 11:00** | Veri Bilimi ve Yapay Öğrenmeye Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=1272)
   - Yapay Kolektif Zeka Sunumu,
     - Makale: _Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130._ [DOI: 10.51803/yssr.833992](https://dergipark.org.tr/tr/download/article-file/1424428)
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-
-**12:00-12.45** | Python ile Veri Bilimine Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=4863)
-  - Python Veri Yapıları
-  - Python Fonksiyonlar
-  - Sınıf Yapısı
-  - Dosya Okuma
-  - Notebook: [Python ile Veri Bilimine Giriş](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
 ## Bilgisayım ve Programlama
 Bilgisayım, 
@@ -33,15 +21,6 @@ Bilgisayım,
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
 ![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
-
-**13:45-14.30** | Veri Biliminin Enstrumanları: Pandas & Numpy | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828)
-  - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
-  - Pandas
-    - Pandas Serileri & DataFrame Yapısı
-    - Pandas Filtreleme İşlemleri
-    - Pandas Groupby, Merge, Join ve Pivot Table Fonksiyonları
-    - Pandas ile Veri Seti Okuma Yöntemleri
-  - Notebook: [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb)
 
 **14:30-15:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
   - Makineler nasıl öğrenir?
