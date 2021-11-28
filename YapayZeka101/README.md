@@ -5,7 +5,7 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
 
 
 
-# Ders Programı
+# Eğitim Programı
 
 ## 9 Aralık 2021
 **10:00 - 11:00** | Veri Bilimi ve Yapay Öğrenmeye Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=1272)
