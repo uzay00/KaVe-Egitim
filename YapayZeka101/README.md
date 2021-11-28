@@ -8,28 +8,29 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
 # Eğitim Programı
 
 ## 9 Aralık 2021
-**10:00 - 11:00** | Veri Bilimi ve Yapay Öğrenmeye Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=1272)
+**10:00 - 10:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=1272)
   - Yapay Kolektif Zeka Sunumu,
     - Makale: _Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130._ [DOI: 10.51803/yssr.833992](https://dergipark.org.tr/tr/download/article-file/1424428)
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
 
-**11:15-11:30** | Bilgisayım ve Programlama
+**11:00-11:45** | Bilgisayım ve Programlama
 Bilgisayım, 
  - (1) verinin depolanması ve 
  - (2) verinin işlenmesi ile ilgilidir. 
 
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
-**11:30-12:00** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
-  - Makineler nasıl öğrenir?
-  - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
+ - Makineler nasıl öğrenir?| [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
+ - Notebook: [En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ ](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
 
-** 13:00-14:00** | Doğal Dil İşlemeye Giriş
-
+** 13:00-13:45** | Doğal Dil İşlemeye Giriş
+  - [Metin Özetleme] (https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders5%20-%20Ozetleme%20v1.ipynb)
   - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y)
   > _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
-** 13:00-14:00** | Summarify ile Sosyal Medya Dinleme
+** 14:00-14:45** | Sosyal Medya Dinleme
+  - Summarify'ın hikayesi
+  - [Çağrı merkezine](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb) gelen konuşmaların sınıflandırılması 
 
 **14:45-15:30** | Veri Toplama ve İşleme (Sosyal Medya İzleme) | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
   - Python & Tweepy ile Twitter verilerini toplama
