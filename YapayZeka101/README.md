@@ -28,21 +28,11 @@ Bilgisayım,
 
 **13:00-14:00** | Doğal Dil İşleme
 
-### Ödev
 Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
+>> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
   - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
   - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
 
-
-## 7 EYLÜL
-**11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=858)
-  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi), basit cevap [linki](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb)
-  >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
-  - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
-
-**12:00-12.45** | Öneri Sistemleri | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=5142)
-  - Python & Demographic/Content Based Filtering ile TMDB 5000 MOVIE datasında öneri sistemi
-  - Notebook: [Movie Recommender](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Movie_Recommendation.ipynb)
 
 **13:45-14:30** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
   - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
