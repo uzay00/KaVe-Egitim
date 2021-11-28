@@ -27,7 +27,6 @@ Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir.
 **14:00-14:45** | Veri Toplama ve İşleme (Sosyal Medya İzleme)| [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
 
 Summarify'ın hikayesi
-  - Sosyal Medya Dinleme 
   - [Çağrı merkezine](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb) gelen konuşmaların sınıflandırılması 
   
   - Transformers kütüphanesi ile önceden eğitilmiş [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?gi=2ab36d86429) duygu analizi modelini kullanma
