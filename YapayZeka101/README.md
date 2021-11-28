@@ -43,5 +43,7 @@ Summarify'ın hikayesi
 2017 yılından beri Sarıyer Belediyesi bünyesinde gençlere yönelik ücretsiz olarak düzenlediğimiz eğitimlerde, 20den fazla öğrenci girdikleri yarışmalardan derece ile döndüler.
  - Düzenlenen Eğitimler: https://uzay00.github.io/kahve/derin_ogrenme.html
  - Hayal Edilen Eğitimler: [KaVe](https://docs.google.com/document/d/1VMVY9Sb7ImG1BS7IluRiIe1JFFxMr3wAdn4EeoffhbM/edit#heading=h.h0t6p57iut9i)
+
+
 [Topluluğumuzun](https://www.linkedin.com/company/kavetr) diğer eğitimlerine 
 [adresinden](https://github.com/kaveai/veribilimiyazokulu) ulaşabilirsiniz.
