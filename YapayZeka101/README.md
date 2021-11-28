@@ -13,7 +13,7 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
     - Makale: _Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130._ [DOI: 10.51803/yssr.833992](https://dergipark.org.tr/tr/download/article-file/1424428)
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
 
-## Bilgisayım ve Programlama
+**11:15-11:30** | Bilgisayım ve Programlama
 Bilgisayım, 
  - (1) verinin depolanması ve 
  - (2) verinin işlenmesi ile ilgilidir. 
@@ -22,9 +22,11 @@ Bilgisayım,
 
 ![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
 
-**14:30-15:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
+**11:30-12:00** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
   - Makineler nasıl öğrenir?
   - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
+
+**13:00-14:00** | Doğal Dil İşleme
 
 ### Ödev
 Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
