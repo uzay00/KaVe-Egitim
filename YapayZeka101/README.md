@@ -24,21 +24,20 @@ Bilgisayım,
   - Makineler nasıl öğrenir?
   - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
 
-**13:00-14:00** | Doğal Dil İşleme
+** 13:00-14:00** | Doğal Dil İşlemeye Giriş
 
-Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
->> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
-  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
-  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+  - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y)
+  > _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
-
-**13:45-14:30** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
-  - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
-  - Notebook: [KDD'99 datasında Anomali Tespiti](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Anomaly_Detection.ipynb)
+** 13:00-14:00** | Summarify ile Sosyal Medya Dinleme
 
 **14:45-15:30** | Veri Toplama ve İşleme (Sosyal Medya İzleme) | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
   - Python & Tweepy ile Twitter verilerini toplama
   - Transformers kütüphanesi ile önceden eğitilmiş [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?gi=2ab36d86429) duygu analizi modelini kullanma
   - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
+**13:45-14:30** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
+  - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
+  - Notebook: [KDD'99 datasında Anomali Tespiti](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Anomaly_Detection.ipynb)
 
+**13:45-14:30** | Genetik Algoritma
