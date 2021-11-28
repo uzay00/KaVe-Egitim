@@ -4,6 +4,9 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
 [adresinden](https://github.com/kaveai/veribilimiyazokulu) ulaşabilirsiniz.
 
 
+Karmaşık Sistemler ve Veri Bilimi Topluluğu
+ - Düzenlenen Eğitimler: https://uzay00.github.io/kahve/derin_ogrenme.html
+ - Hayal Edilen Eğitimler: [KaVe](https://docs.google.com/document/d/1VMVY9Sb7ImG1BS7IluRiIe1JFFxMr3wAdn4EeoffhbM/edit#heading=h.h0t6p57iut9i)
 
 # Eğitim Programı
 
@@ -25,7 +28,6 @@ Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir.
   - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y): _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
 **14:00-14:45** | Veri Toplama ve İşleme (Sosyal Medya İzleme)| [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
-
 Summarify'ın hikayesi
   - [Çağrı merkezine](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb) gelen konuşmaların sınıflandırılması 
   
