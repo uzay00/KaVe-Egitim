@@ -14,6 +14,7 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
 
 **11:00-11:45** | Bilgisayım ve Programlama
+
 Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir. 
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
  - Makineler nasıl öğrenir?| [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
@@ -24,6 +25,7 @@ Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir.
   - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y): _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
 **14:00-14:45** | Veri Toplama ve İşleme (Sosyal Medya İzleme)| [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
+
 Summarify'ın hikayesi
   - Sosyal Medya Dinleme 
   - [Çağrı merkezine](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb) gelen konuşmaların sınıflandırılması 
