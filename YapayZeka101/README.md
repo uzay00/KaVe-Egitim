@@ -4,9 +4,6 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
 [adresinden](https://github.com/kaveai/veribilimiyazokulu) ulaşabilirsiniz.
 
 
-Karmaşık Sistemler ve Veri Bilimi Topluluğu
- - Düzenlenen Eğitimler: https://uzay00.github.io/kahve/derin_ogrenme.html
- - Hayal Edilen Eğitimler: [KaVe](https://docs.google.com/document/d/1VMVY9Sb7ImG1BS7IluRiIe1JFFxMr3wAdn4EeoffhbM/edit#heading=h.h0t6p57iut9i)
 
 # Eğitim Programı
 
@@ -41,3 +38,10 @@ Summarify'ın hikayesi
 **13:45-14:30** | Genetik Algoritma
  - [En Kısa yol](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Sem%C4%B1nar/Lecture%202%20-%20Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
  - [Öz Nitelik Seçimi](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/ITU/UBMK%202019%20-%20Evolving%20Fast%20and%20Slow.pdf)
+
+
+# Karmaşık Sistemler ve Veri Bilimi Topluluğu
+2017 yılından beri Sarıyer Belediyesi bünyesinde gençlere yönelik ücretsiz olarak düzenlediğimiz eğitimlerde, 20den fazla öğrenci girdikleri yarışmalardan derece ile döndüler.
+ - Düzenlenen Eğitimler: https://uzay00.github.io/kahve/derin_ogrenme.html
+ - Hayal Edilen Eğitimler: [KaVe](https://docs.google.com/document/d/1VMVY9Sb7ImG1BS7IluRiIe1JFFxMr3wAdn4EeoffhbM/edit#heading=h.h0t6p57iut9i)
+
