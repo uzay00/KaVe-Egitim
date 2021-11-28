@@ -25,8 +25,7 @@ Bilgisayım,
 
 **13:00-13:45** | Doğal Dil İşlemeye Giriş
   - [Metin Özetleme](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders5%20-%20Ozetleme%20v1.ipynb)
-  - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y)
-   > _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
+  - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y): _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
 **14:00-14:45** | Veri Toplama ve İşleme (Sosyal Medya İzleme)| [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=14409)
   - Summarify'ın hikayesi: Sosyal Medya Dinleme 
