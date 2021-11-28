@@ -14,12 +14,8 @@ Bu eğitim içeriği `Bilgi Teknolojileri ve İletişim Kurumu (BTK)` için Dr. 
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
 
 **11:00-11:45** | Bilgisayım ve Programlama
-Bilgisayım, 
- - (1) verinin depolanması ve 
- - (2) verinin işlenmesi ile ilgilidir. 
-
+Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir. 
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
-
  - Makineler nasıl öğrenir?| [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
  - Notebook: [En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ ](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
 
