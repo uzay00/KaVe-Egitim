@@ -24,6 +24,7 @@ Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir.
  - Notebook: [En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ ](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
 
 **13:00-13:45** | Doğal Dil İşlemeye Giriş
+  - https://teachablemachine.withgoogle.com/
   - [Metin Özetleme](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders5%20-%20Ozetleme%20v1.ipynb)
   - [Yaşam Koçum Uygulaması](https://www.youtube.com/watch?v=xz45EaSpf4Y): _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
@@ -35,7 +36,8 @@ Summarify'ın hikayesi
   - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
 **13:45-14:30** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
-  - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
-  - Notebook: [KDD'99 datasında Anomali Tespiti](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Anomaly_Detection.ipynb)
-
+  - [AutoEncoders](https://docs.google.com/document/d/1_Tw2ju1NEX9GTvyQSaMjhm7JIw5x8P0en8Hmj8sR_FQ)
+  
 **13:45-14:30** | Genetik Algoritma
+ - [En Kısa yol](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Sem%C4%B1nar/Lecture%202%20-%20Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
+ - [Öz Nitelik Seçimi](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/ITU/UBMK%202019%20-%20Evolving%20Fast%20and%20Slow.pdf)
