@@ -31,10 +31,10 @@ Summarify'ın hikayesi
   - Transformers kütüphanesi ile önceden eğitilmiş [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?gi=2ab36d86429) duygu analizi modelini kullanma
   - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
-**13:45-14:30** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
+**15:00-15:45** | Anomali Tespiti | [YOUTUBE](https://youtu.be/pOYAgUfTq1g?t=10639)
   - [AutoEncoders](https://docs.google.com/document/d/1_Tw2ju1NEX9GTvyQSaMjhm7JIw5x8P0en8Hmj8sR_FQ)
   
-**13:45-14:30** | Genetik Algoritma
+**16:45-16:45** | Genetik Algoritma
  - [En Kısa yol](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Sem%C4%B1nar/Lecture%202%20-%20Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
  - [Öz Nitelik Seçimi](https://github.com/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/ITU/UBMK%202019%20-%20Evolving%20Fast%20and%20Slow.pdf)
 
