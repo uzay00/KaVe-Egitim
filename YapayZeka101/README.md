@@ -20,8 +20,6 @@ Bilgisayım,
 
  - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
-![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
-
 **11:30-12:00** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__ | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=15321)
   - Makineler nasıl öğrenir?
   - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
